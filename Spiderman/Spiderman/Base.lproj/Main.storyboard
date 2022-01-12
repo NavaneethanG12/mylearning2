@@ -38,7 +38,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="spiderman" width="275" height="275"/>
+        <image name="spiderman" width="275.5" height="275.5"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
